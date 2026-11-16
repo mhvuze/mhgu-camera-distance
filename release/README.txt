@@ -1,5 +1,5 @@
 Camera Distance @VERSION@ for MHGU Recomp
-=========================================
+=====================================
 
 Sets how far the quest camera stays behind your hunter and behind your
 Prowler, from 30% to 300% of the game's distance. Changes show at once, with
